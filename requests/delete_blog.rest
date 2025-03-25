@@ -1,0 +1,10 @@
+DELETE http://localhost:3003/api/blogs
+Content-Type: application/json
+
+{
+      "title": "Karin's blog",
+    "author": "Karin V",
+    "url": "the.url",
+    "likes": 4,
+    "id": "67e2b857a70086b5c1c14801"
+}
