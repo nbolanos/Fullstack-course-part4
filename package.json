@@ -19,11 +19,13 @@
   },
   "homepage": "https://github.com/nbolanos/Fullstack-course-part4#readme",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "eslint": "^9.23.0",
     "express": "^4.21.2",
     "express-async-errors": "^3.1.1",
+    "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
     "mongoose": "^8.13.0"
   },

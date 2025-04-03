@@ -1,9 +1,10 @@
 POST http://localhost:3003/api/blogs
 Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im5pa2tvYiIsImlkIjoiNjdlZDQwMjI3YzhkMTFjMmVjNWE5Yjg4IiwiaWF0IjoxNzQzNjAxNzczfQ.DvFEu6uafjNznelmyrGgg6TPE1p_HtWdu9D35kQZXRY
 
 {
-  "title": "Angie's blog",
-  "author": "Angie F",
-  "url": "Another.url",
-  "likes": "11"
+  "url": "www.helloThere.com",
+  "title": "Hello World!",
+  "author": "Nikko B",
+  "likes": "7"
 }
